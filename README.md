@@ -8,6 +8,7 @@ Nc
 
 ```
 ## Demo 
+<img width="765" height="490" alt="image" src="https://github.com/user-attachments/assets/77201635-6aaf-4a1f-8077-da9efbf43a13" />
 
 ---
 
