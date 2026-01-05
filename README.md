@@ -3,6 +3,8 @@
 To compile and run this game, use **vimasm** to open the source and **Nc** to build and execute:
 
 ```bash
+sudo pacman -Syu nasm dosbox neovim wget unzip
+yay -S vimasm 
 vimasm main.asm
 Nc 
 
